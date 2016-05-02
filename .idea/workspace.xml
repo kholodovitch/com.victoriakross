@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b32cf8a5-d49a-4b7e-8e82-7a017676cfa5" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/www_victoriakross_node_modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/bin_www.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/Version/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/category/katalog-na-glavnoy/frik-shou/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/category/katalog-na-glavnoy/khodulisty/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/category/katalog-na-glavnoy/ognennoe-shou/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/category/katalog-na-glavnoy/piro-shou/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/category/katalog-na-glavnoy/salyut/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/category/katalog-na-glavnoy/svadebnoe-shou/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/category/katalog-na-glavnoy/svetovoe-shou/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/category/katalog-na-glavnoy/vozdushnoe-shou/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/category/katalog-na-glavnoy/vstrecha-gostey/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/category/shou/drugoe-shou/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/category/shou/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/category/shou/ognenno-pirotekhnicheskoe-shou/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/category/shou/svetovoe-graficheskoe-shou/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/category/specpredlozheniya/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/commands/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/comments/feed/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/contacts/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/feed/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/price/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/reviews/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/shares/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/stati/novosti/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/video/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/contact-form-7/includes/css/styleseb11.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/contact-form-7/includes/js/jquery.form.mind03d.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/contact-form-7/includes/js/scriptseb11.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/easy-modal/assets/scripts/easy-modal-site2617.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/easy-modal/assets/scripts/jquery.transit.min7f05.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/easy-modal/assets/styles/easy-modal-siteb3e8.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/easy-video-player/lib/flowplayer.minc1f9.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/easy-video-player/lib/skin/all-skinsc1f9.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/easy-video-player/lib/skin/img/black.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/easy-video-player/lib/skin/img/black@x2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/easy-video-player/lib/skin/img/black_rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/easy-video-player/lib/skin/img/black_rtl@x2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/easy-video-player/lib/skin/img/flowplayer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/easy-video-player/lib/skin/img/flowplayer@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/easy-video-player/lib/skin/img/play_black.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/easy-video-player/lib/skin/img/play_black@x2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/easy-video-player/lib/skin/img/play_black_rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/easy-video-player/lib/skin/img/play_black_rtl@x2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/easy-video-player/lib/skin/img/play_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/easy-video-player/lib/skin/img/play_white@x2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/easy-video-player/lib/skin/img/play_white_rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/easy-video-player/lib/skin/img/play_white_rtl@x2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/easy-video-player/lib/skin/img/playful_black.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/easy-video-player/lib/skin/img/playful_black@x2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/easy-video-player/lib/skin/img/playful_black_rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/easy-video-player/lib/skin/img/playful_black_rtl@x2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/easy-video-player/lib/skin/img/playful_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/easy-video-player/lib/skin/img/playful_white@x2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/easy-video-player/lib/skin/img/playful_white_rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/easy-video-player/lib/skin/img/playful_white_rtl@x2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/easy-video-player/lib/skin/img/white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/easy-video-player/lib/skin/img/white@x2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/easy-video-player/lib/skin/img/white_rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/easy-video-player/lib/skin/img/white_rtl@x2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/revslider/images/dummy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/revslider/rs-plugin/assets/arrow_left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/revslider/rs-plugin/assets/arrow_left2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/revslider/rs-plugin/assets/arrow_right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/revslider/rs-plugin/assets/arrow_right2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/revslider/rs-plugin/assets/arrowleft.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/revslider/rs-plugin/assets/arrowright.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/revslider/rs-plugin/assets/boxed_bgtile.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/revslider/rs-plugin/assets/bullet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/revslider/rs-plugin/assets/bullet_boxed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/revslider/rs-plugin/assets/bullets.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/revslider/rs-plugin/assets/bullets2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/revslider/rs-plugin/assets/coloredbg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/revslider/rs-plugin/assets/gridtile.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/revslider/rs-plugin/assets/gridtile_3x3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/revslider/rs-plugin/assets/gridtile_3x3_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/revslider/rs-plugin/assets/gridtile_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/revslider/rs-plugin/assets/large_left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/revslider/rs-plugin/assets/large_right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/revslider/rs-plugin/assets/loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/revslider/rs-plugin/assets/navigdots.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/revslider/rs-plugin/assets/navigdots_bgtile.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/revslider/rs-plugin/assets/shadow1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/revslider/rs-plugin/assets/shadow2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/revslider/rs-plugin/assets/shadow3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/revslider/rs-plugin/assets/small_left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/revslider/rs-plugin/assets/small_left_boxed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/revslider/rs-plugin/assets/small_right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/revslider/rs-plugin/assets/small_right_boxed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/revslider/rs-plugin/assets/timer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/revslider/rs-plugin/css/captions95a7.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/revslider/rs-plugin/css/settings95a7.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/revslider/rs-plugin/font/revicons90c6.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/revslider/rs-plugin/font/revicons90c6.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/revslider/rs-plugin/font/revicons90c6.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/revslider/rs-plugin/font/revicons90c6.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/revslider/rs-plugin/images/gradient/g30.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/revslider/rs-plugin/images/gradient/g40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.plugins.min95a7.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min95a7.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/simple-colorbox/scripts/jquery.colorbox-min68b3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/simple-colorbox/themes/theme1/colorboxc1f9.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/simple-colorbox/themes/theme1/images/border.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/simple-colorbox/themes/theme1/images/controls.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/simple-colorbox/themes/theme1/images/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/simple-colorbox/themes/theme1/images/loading_background.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/simple-colorbox/themes/theme1/images/overlay.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/wp-customer-reviews/button.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/wp-customer-reviews/newstars.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/wp-customer-reviews/wp-customer-reviewsad2f.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/plugins/wp-customer-reviews/wp-customer-reviewsad2f.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/themes/pandorashow/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/themes/pandorashow/css/font-awesome.min268f.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/themes/pandorashow/css/mobile.minc920.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/themes/pandorashow/css/unsemantic-grid.minc920.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/themes/pandorashow/fonts/GothamProBold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/themes/pandorashow/fonts/GothamProBold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/themes/pandorashow/fonts/GothamProBold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/themes/pandorashow/fonts/GothamProBoldd41d.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/themes/pandorashow/fonts/fontawesome-webfont3295.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/themes/pandorashow/fonts/fontawesome-webfont3295.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/themes/pandorashow/fonts/fontawesome-webfont3295.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/themes/pandorashow/fonts/fontawesome-webfont3295.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/themes/pandorashow/fonts/fontawesome-webfont3295.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/themes/pandorashow/fonts/fontawesome-webfontd41d.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/themes/pandorashow/img/bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/themes/pandorashow/img/ico-net.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/themes/pandorashow/img/li-list.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/themes/pandorashow/img/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/themes/pandorashow/js/back-to-top.minc920.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/themes/pandorashow/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/themes/pandorashow/js/dropdown.minc920.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/themes/pandorashow/js/navigation.minc920.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/themes/pandorashow/stylec920.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/uploads/2016/02/cropped-logo-180x180.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/uploads/2016/02/cropped-logo-192x192.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/uploads/2016/02/cropped-logo-32x32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/uploads/2016/02/frik-shou-300x185.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/uploads/2016/02/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/uploads/2016/02/ognennoe-shou-300x185.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/uploads/2016/02/piro-shou.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/uploads/2016/02/salyut.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/uploads/2016/02/svadebnoe-shou-300x185.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/uploads/2016/02/svetovoe-shou-300x185.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/uploads/2016/02/vozdushnoe-shou-300x185.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/uploads/2016/02/vstrecha-gostey-300x185.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-content/uploads/2016/03/khodulisty-300x185.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-includes/js/jquery/jquery-migrate.min1576.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-includes/js/jquery/jqueryc1d8.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-includes/js/jquery/ui/core.mine899.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-includes/js/jquery/ui/position.mine899.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-includes/js/wp-embed.minc1f9.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-includes/wlwmanifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/wp-json/index.html" afterPath="" />
+    </list>
+    <ignored path="www_victoriakross.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="www_victoriakross" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="3832" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www_victoriakross" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www_victoriakross" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www_victoriakross" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="C:\Program Files\nodejs\node.exe" />
+    <property name="javascript.nodejs.core.library.configured.version" value="4.2.3" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RunManager" selected="Node.js.bin\www">
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.bin\www" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b32cf8a5-d49a-4b7e-8e82-7a017676cfa5" name="Default" comment="" />
+      <created>1462209248215</created>
+      <option name="number" value="Default" />
+      <updated>1462209248215</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="3832" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24960506" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3297414" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
