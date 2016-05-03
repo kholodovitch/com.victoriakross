@@ -27,7 +27,7 @@ app.use(require('node-sass-middleware')({
   sourceMap: true
 }));
 app.use(express.static(path.join(__dirname, 'public')));
-app.use(express.static("old"));
+app.use(express.static(path.join(__dirname, 'old')));
 
 app.use('/', routes);
 app.use('/users', users);
